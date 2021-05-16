@@ -1,1 +1,7 @@
-This is a sample file.
+line 1 local
+
+line 2 local
+
+line 3 local
+
+line 4 local
